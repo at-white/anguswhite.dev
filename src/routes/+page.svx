@@ -1,0 +1,12 @@
+<script>
+
+</script>
+
+# Angus White
+TODO: Put your name in the navbar, and replace this with an image saying something like "ahoy!"
+
+I'm a software developer, computer programmer, whatever you want to call me, based in Melbourne, Australia.
+
+I'm into low-level systems programming, HPC and scientific computing.
+
+  

@@ -1,0 +1,3 @@
+# Posts
+
+- [Micro-projects - A Commitment Mechanism](/posts/micro-projects)
