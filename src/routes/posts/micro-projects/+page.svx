@@ -1,3 +1,44 @@
 # Micro-projects - A Commitment Mechanism
 
+There was this brief period of my life where I got into life-drawing. The first time I went to a class, I was terrified, because I straight up didn't know how to draw, despite having had a nebulous goal of "get better at drawing" for several years. Yes, yes, it's counter-productive to feel embarrassed at your abilities in a class designed to improve them. And yes, yes, no-one actually cares or is paying attention. But my body doesn't know that instinctively, so I was intimidated.
 
+Before I knew it, there as a naked person in the middle of the room, and the teacher had said "alright, let's start with 30 second poses as a warmup". It's genuinely not hyperbole to say that the next 30 seconds were life-changing. Because here's the thing: you'd have to be Da Vinci to draw a masterpiece in 30 seconds. And if you're trying to get *anything* out on the page in 30 seconds, you need to _hustle_. That sense of urgency completely released me of any sense of self-consciousness, perfectionism, any thought other than "draw". And for the next year or so, while I went to those classes, I experienced a rate of improvement like never before.
+
+Lately, I've been feeling stuck. There are so many interesting things to learn about, investigate and build. I - like most engineers, I imagine - have a note on my phone called "Project Ideas" that grows ever longer. It's so easy to have ideas (and it feels great too!), but it's far harder to execute on them.
+
+The behaviour that I typically exhibit is:
+1. Have a new project idea and feel really excited by it
+2. Make a start, lay out foundations
+3. Tie myself in knots trying to make sure I do it perfectly
+4. Get distracted by something else because it's not fun anymore
+
+So I've decided to adopt one of my software development policies as a policy in my own personal development: "assume failures will happen and respond accordingly, rather than trying to prevent them entirely".
+
+The goal of these projects is and always has been a) learning something new and b) having fun. So if I typically stop having fun after a few weeks working on a project, then I guess it makes sense to no longer try and work on projects for longer than a few weeks.
+
+These are the rules:
+1. Projects last 3 weeks - no more, no less. Pick an end date at project inception.
+2. Whatever state the project is in on that date, it's done - stop working on it.
+3. Before starting, scope the project ruthlessly so it's achievable in that period of time.
+
+To be able to scope projects well, I'll need enough background knowledge to be able to make an intelligent judgment call. So perhaps for a week or so before starting a project, I'll aim to read docs, read background info, and just generally immerse myself in supplementary materials, without any pressure to be executing.
+
+In the same way that the 30 second drawing warmups removed the pressure of perfection in the life-drawing class, I'm hoping that these rules will force me to make something finished and imperfect in these micro-projects.
+
+Some ideas that are currently floating around:
+- A Monte Carlo path-tracing renderer
+- Something to do with stylized material shaders
+- Something with a purely functional language
+- Something with a Lisp
+- A FVM fluid simulation of some kind
+- A SAT solver
+- Something with an FPGA (or simulation thereof)
+- A Kalman filter in C
+- A photogrammetry tool
+- A non-linear optimizer
+
+We'll see where we end up! The aim is to expose myself to as many new topics, paradigms and ideas as possible - to go wide before I elect to go deep on anything.
+
+Project data will end up [here](https://www.github.com/at-white/micro-projects), and I'll chuck up a post at the conclusion of each one.
+
+See you at the end of project 1!
